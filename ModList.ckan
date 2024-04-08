@@ -1,0 +1,388 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "Automated-Realism",
+    "name": "Automated Realism",
+    "abstract": "List of mods installed in the automated realism modpack",
+    "author": "skiy",
+    "version": "2024.04.08.05.35.22",
+    "ksp_version_min": "1.12",
+    "ksp_version_max": "1.12",
+    "license": "unknown",
+    "depends": [
+        {
+            "name": "ALCOR",
+            "version": "1.0.1"
+        },
+        {
+            "name": "AntaresCygnus",
+            "version": "1:v1.9"
+        },
+        {
+            "name": "AtmosphericBeatsKSRSSconfigforEVEVolumetrics",
+            "version": "2.0"
+        },
+        {
+            "name": "BetterBurnTime",
+            "version": "1.10"
+        },
+        {
+            "name": "BetterTimeWarpCont",
+            "version": "2.3.13"
+        },
+        {
+            "name": "BuranEnergia",
+            "version": "2.1"
+        },
+        {
+            "name": "CommunityCategoryKit",
+            "version": "v112.0.1"
+        },
+        {
+            "name": "CommunityTechTree",
+            "version": "1:3.4.4"
+        },
+        {
+            "name": "ContractConfigurator-HistoryofSpaceflight-RSS",
+            "version": "1.0"
+        },
+        {
+            "name": "CryoEngines",
+            "version": "1:2.0.6"
+        },
+        {
+            "name": "CryoTanks",
+            "version": "1.6.5"
+        },
+        {
+            "name": "DE-IVAExtension",
+            "version": "v1.2.0"
+        },
+        {
+            "name": "DockingPortAlignmentIndicator",
+            "version": "6.10.0.0"
+        },
+        {
+            "name": "DockingPortSoundFX",
+            "version": "v2.1.12"
+        },
+        {
+            "name": "EasyVesselSwitch",
+            "version": "2.3"
+        },
+        {
+            "name": "EditorExtensionsRedux",
+            "version": "3.4.5"
+        },
+        {
+            "name": "EditorTime",
+            "version": "KSP1.4.1"
+        },
+        {
+            "name": "FASA",
+            "version": "1:v7.2.7"
+        },
+        {
+            "name": "Firespitter",
+            "version": "v7.17"
+        },
+        {
+            "name": "FreeIva",
+            "version": "0.2.18.4"
+        },
+        {
+            "name": "HangerExtenderExtended",
+            "version": "3.6.0.2"
+        },
+        {
+            "name": "Historian-expanded",
+            "version": "2:v1.8.0"
+        },
+        {
+            "name": "InternalRCS",
+            "version": "1.3"
+        },
+        {
+            "name": "KAS",
+            "version": "1.12"
+        },
+        {
+            "name": "KerbalAlarmClock",
+            "version": "v3.14.0.0"
+        },
+        {
+            "name": "KerbalAtomics",
+            "version": "1:1.3.3"
+        },
+        {
+            "name": "KerbalRenamer",
+            "version": "v1.7.0.0"
+        },
+        {
+            "name": "KerbalWind",
+            "version": "1:v1.0.2"
+        },
+        {
+            "name": "KIS",
+            "version": "1.29"
+        },
+        {
+            "name": "kOSforAll",
+            "version": "0.0.5"
+        },
+        {
+            "name": "kOSPropMonitor",
+            "version": "1.7.3"
+        },
+        {
+            "name": "KSCSwitcher",
+            "version": "v2.1.0.0"
+        },
+        {
+            "name": "KSP-AVC",
+            "version": "1.4.1.9"
+        },
+        {
+            "name": "LightsOutRelit",
+            "version": "v0.3.0.2"
+        },
+        {
+            "name": "LunarTransferPlanner",
+            "version": "v1.0.0"
+        },
+        {
+            "name": "MechJeb2",
+            "version": "2.14.3.0"
+        },
+        {
+            "name": "NearFutureAeronautics",
+            "version": "2.1.1"
+        },
+        {
+            "name": "NearFutureElectrical",
+            "version": "1.2.3"
+        },
+        {
+            "name": "NearFutureExploration",
+            "version": "1.1.2"
+        },
+        {
+            "name": "NearFutureLaunchVehicles",
+            "version": "2.2.0"
+        },
+        {
+            "name": "NearFuturePropulsion",
+            "version": "1.3.5"
+        },
+        {
+            "name": "NearFutureSolar",
+            "version": "1.3.2"
+        },
+        {
+            "name": "NearFutureSpacecraft",
+            "version": "1.4.3"
+        },
+        {
+            "name": "NeptuneCamera",
+            "version": "v4.2"
+        },
+        {
+            "name": "NewTantares",
+            "version": "v26.0"
+        },
+        {
+            "name": "Parallax-StockScatterTextures",
+            "version": "2.0.1"
+        },
+        {
+            "name": "PlanetShine",
+            "version": "0.2.6.6"
+        },
+        {
+            "name": "PlanetShine-Config-Default",
+            "version": "0.2.6.6"
+        },
+        {
+            "name": "PoodsMilkyWaySkybox",
+            "version": "v.1.3.0"
+        },
+        {
+            "name": "ProceduralParts",
+            "version": "v2.5.8.0"
+        },
+        {
+            "name": "RasterPropMonitor",
+            "version": "1:v0.31.13.4"
+        },
+        {
+            "name": "RCSBuildAid",
+            "version": "v1.0.6"
+        },
+        {
+            "name": "RealAntennas",
+            "version": "v2.1.1"
+        },
+        {
+            "name": "ReStockPlus",
+            "version": "1.4.3"
+        },
+        {
+            "name": "RestockRigidLegs",
+            "version": "1.4.3"
+        },
+        {
+            "name": "RLAReborn",
+            "version": "0.15.2"
+        },
+        {
+            "name": "RN-SalyutStations",
+            "version": "1:v3.6"
+        },
+        {
+            "name": "RN-Skylab",
+            "version": "1:v1.8.7"
+        },
+        {
+            "name": "RN-SovietProbes",
+            "version": "1:v3.0"
+        },
+        {
+            "name": "RN-SovietRockets",
+            "version": "2:v3.8"
+        },
+        {
+            "name": "RN-SovietSpacecraft",
+            "version": "1:v1.8.8"
+        },
+        {
+            "name": "RN-USProbesPack",
+            "version": "1:v0.80"
+        },
+        {
+            "name": "RN-USRockets",
+            "version": "1:v1.0.0"
+        },
+        {
+            "name": "ROCapsules",
+            "version": "v2.3.0.0"
+        },
+        {
+            "name": "ROEnginesExtended",
+            "version": "2.2.1"
+        },
+        {
+            "name": "ROHeatshields",
+            "version": "v1.1.0.0"
+        },
+        {
+            "name": "ROLoadingImages",
+            "version": "v1.0.0.0"
+        },
+        {
+            "name": "ROSolar",
+            "version": "v2.1.1.0"
+        },
+        {
+            "name": "ROTanks",
+            "version": "v2.10.0.0"
+        },
+        {
+            "name": "RoverPack",
+            "version": "2.0.99.0-adoption"
+        },
+        {
+            "name": "RP-1",
+            "version": "v3.5.0.0"
+        },
+        {
+            "name": "RP-1-ExpressInstall",
+            "version": "v2.0"
+        },
+        {
+            "name": "RP-1-ExpressInstall-Graphics-High",
+            "version": "v1.0.0.0"
+        },
+        {
+            "name": "RSS-CanaveralHD",
+            "version": "v1.0.1"
+        },
+        {
+            "name": "RSSDateTimeFormatter",
+            "version": "v1.12.1.0"
+        },
+        {
+            "name": "RSSVE-HR",
+            "version": "2.1.6"
+        },
+        {
+            "name": "Scatterer-config",
+            "version": "3:v0.0838"
+        },
+        {
+            "name": "Scatterer-sunflare",
+            "version": "3:v0.0838"
+        },
+        {
+            "name": "Shabby",
+            "version": "0.3.0.0"
+        },
+        {
+            "name": "ShuttleOrbiterConstructionKit",
+            "version": "1.1.8"
+        },
+        {
+            "name": "StagedAnimation",
+            "version": "v2.0"
+        },
+        {
+            "name": "StationPartsExpansionRedux",
+            "version": "2.0.10"
+        },
+        {
+            "name": "StationPartsExpansionRedux-IVAs",
+            "version": "2.0.10"
+        },
+        {
+            "name": "StockalikeStructures",
+            "version": "0.0.12"
+        },
+        {
+            "name": "TantaresSP",
+            "version": "5.0"
+        },
+        {
+            "name": "Toolbar",
+            "version": "1:1.8.1.1"
+        },
+        {
+            "name": "TrackingStationEvolved",
+            "version": "7.0"
+        },
+        {
+            "name": "TransferWindowPlannerFork",
+            "version": "v1.9.1.0"
+        },
+        {
+            "name": "TundraSpaceCenter",
+            "version": "2.0.2"
+        },
+        {
+            "name": "TweakScale",
+            "version": "v2.4.7.6"
+        },
+        {
+            "name": "TweakScale-Redist",
+            "version": "v2.4.7.6"
+        },
+        {
+            "name": "TweakScaleCompanion",
+            "version": "2024.02.20.0"
+        },
+        {
+            "name": "WernherCheckerContinued",
+            "version": "0.5.13.1"
+        }
+    ],
+    "download": null,
+    "release_date": "2024-04-08T18:35:22.865804+01:00",
+    "kind": "metapackage"
+}
